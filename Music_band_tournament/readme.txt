@@ -1,0 +1,1 @@
+The tests are the same as in ODTUClass. This is just automated to make our work easier. It should work on both Windows and Linux.
